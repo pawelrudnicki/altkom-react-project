@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sofomo/static/css/main.3f039e1b.chunk.css",
+    "main.js": "/sofomo/static/js/main.0be17dd8.chunk.js",
+    "main.js.map": "/sofomo/static/js/main.0be17dd8.chunk.js.map",
+    "runtime-main.js": "/sofomo/static/js/runtime-main.c77b6971.js",
+    "runtime-main.js.map": "/sofomo/static/js/runtime-main.c77b6971.js.map",
+    "static/css/2.259c901d.chunk.css": "/sofomo/static/css/2.259c901d.chunk.css",
+    "static/js/2.d75459af.chunk.js": "/sofomo/static/js/2.d75459af.chunk.js",
+    "static/js/2.d75459af.chunk.js.map": "/sofomo/static/js/2.d75459af.chunk.js.map",
+    "index.html": "/sofomo/index.html",
+    "static/css/2.259c901d.chunk.css.map": "/sofomo/static/css/2.259c901d.chunk.css.map",
+    "static/css/main.3f039e1b.chunk.css.map": "/sofomo/static/css/main.3f039e1b.chunk.css.map",
+    "static/js/2.d75459af.chunk.js.LICENSE.txt": "/sofomo/static/js/2.d75459af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c77b6971.js",
+    "static/css/2.259c901d.chunk.css",
+    "static/js/2.d75459af.chunk.js",
+    "static/css/main.3f039e1b.chunk.css",
+    "static/js/main.0be17dd8.chunk.js"
+  ]
+}
